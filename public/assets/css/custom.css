@@ -1,0 +1,18 @@
+#canvas_container{
+    overflow: scroll;
+    height: 500px;
+  }
+
+  .info-bottom{
+    border-bottom: 1px solid #d7d7d7;
+  }
+
+  .info-bottom p:last-child{
+    margin-bottom: 0px;
+    margin-bottom: 0.5rem;
+  }
+
+  .buttons-closure{
+    width: 50%;
+    margin: auto;
+  }
